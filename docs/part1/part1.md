@@ -56,7 +56,7 @@
 </ul>
 </td>
 <td style="width: 22.7054%; height: 229px;">&nbsp;</td>
-<td style="width: 27.0531%; height: 229px;">&nbsp;</td>
+<td style="width: 27.0531%; height: 229px;"><img src="https://github.com/paulokoelio/system_analysis/blob/main/docs/part1/res/202412%20%D0%A0%D0%B5%D0%B3%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%20TOG%20p1.png" alt="Регламент процесса ч1" width="100" height="250" /><img src="https://github.com/paulokoelio/system_analysis/blob/main/docs/part1/res/202412%20%D0%A0%D0%B5%D0%B3%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%20TOG%20p2.png" alt="Регламент процесса ч2" width="100" height="250" /></td>
 </tr>
 <tr style="height: 36px;">
 <td style="width: 50.2414%; height: 36px;">как использовать чек-листы для проверки требований.</td>
